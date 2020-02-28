@@ -1,0 +1,11 @@
+{
+  "name": "split-stacks-sls-1.65-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jacob Elder <jacob@blissfully.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "1.65.0",
+    "serverless-plugin-split-stacks": "1.9.3"
+  }
+}
